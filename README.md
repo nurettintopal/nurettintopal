@@ -9,7 +9,7 @@
 
 
 
-- 🔭 ~~I’m currently working for a fast delivery company as engineering manager.~~
+- 🔭 I’m currently working for an online grocery company as engineering manager.
 - 💬 Ask me about software technologies such as java, spring boot, nodejs, aws, google cloud, microservices, redis, rabbitmq, kafka, mysql, postgresql, mongodb, graphql, docker, kubernetes, distributed systems, etc.
 - 🌱 I’m currently learning Go, Dart, Flutter(as a hobby).
 - 👯 I'm trying to make an all in one open-source project that enables to build an app easily(just an idea, no specific thing).
