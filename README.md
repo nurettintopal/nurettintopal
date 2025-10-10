@@ -17,14 +17,18 @@
 - 📫 Reach me out through my x/twitter profile. <a href="https://twitter.com/nurettintopal" target="_blank"> https://twitter.com/nurettintopal </a>
 <h2></h2>
 <h2>Latest Blog Posts</h2>
-<ul>
-<li><a href="https://medium.com/@nurettintopal/krakend-in-action-simplified-secure-and-scaleable-services-cb147bacaf32" target="_blank">KrakenD in Action: Simplified, Secure, and Scaleable Services</a></li>
-<li><a href="https://medium.com/@nurettintopal/how-can-we-calculate-scores-in-a-quiz-application-00b5d3c1b2b2" target="_blank">How can we calculate scores in a quiz application?</a></li>
-<li><a href="https://medium.com/@nurettintopal/seamless-notification-platform-why-you-need-it-and-how-to-use-it-01637eba4e7c" target="_blank">Seamless Notification Platform: Why You Need It and How to Use It</a></li>
-<li><a href="https://medium.com/@nurettintopal/rule-engine-what-why-and-how-3cb9f51f85b0" target="_blank">Rule Engine: What, Why, and How</a></li>
-<li><a href="https://medium.com/@nurettintopal/node-js-i%CC%87le-graphql-server-olu%C5%9Fturma-a3de92c773f3" target="_blank">Node.js İle GraphQL Server Oluşturma</a></li>
-<li><a href="https://medium.com/@nurettintopal/graphql-101-yeni-ba%C5%9Flayanlar-i%CC%87%C3%A7in-graphql-a4007075255c" target="_blank">GraphQL 101: Yeni Başlayanlar İçin GraphQL</a></li>
-</ul>
+
+| Title                                                                     | Link                                                                                                                               | Language | Date           |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|----------|----------------|
+| What is going on in my life nowadays?                                     | [Link](https://medium.com/@nurettintopal/what-is-going-on-in-my-life-nowadays-7ef4e8b459a2)                                        | English  | June, 2025     |
+| Kural Motoru(Rule Engine): Ne, Neden ve Nasıl                             | [Link](https://medium.com/@nurettintopal/kural-motoru-rule-engine-ne-neden-ve-nas%C4%B1l-b7a8858368c3)                             | Turkish  | June, 2025     |
+| KrakenD in Action: Simplified, Secure, and Scaleable Services             | [Link](https://medium.com/@nurettintopal/krakend-in-action-simplified-secure-and-scaleable-services-cb147bacaf32)                  | English  | December, 2024 |
+| How can we calculate scores in a quiz application?                        | [Link](https://medium.com/@nurettintopal/how-can-we-calculate-scores-in-a-quiz-application-00b5d3c1b2b2)                           | English  | August, 2024   |
+| Seamless Notification Platform: Why You Need It and How to Use It         | [Link](https://medium.com/@nurettintopal/seamless-notification-platform-why-you-need-it-and-how-to-use-it-01637eba4e7c)            | English  | August, 2024   |
+| Rule Engine: What, Why, and How                                           | [Link](https://medium.com/@nurettintopal/rule-engine-what-why-and-how-3cb9f51f85b0)                                                | English  | July, 2024     |
+| Node.js İle GraphQL Server Oluşturma                                      | [Link](https://medium.com/@nurettintopal/node-js-i%CC%87le-graphql-server-olu%C5%9Fturma-a3de92c773f3)                             | Turkish  | January, 2020  |
+| GraphQL 101: Yeni Başlayanlar İçin GraphQL                                | [Link](https://medium.com/@nurettintopal/graphql-101-yeni-ba%C5%9Flayanlar-i%CC%87%C3%A7in-graphql-a4007075255c)                   | Turkish  | November, 2019 |
+
 
 <p><a href="https://medium.com/@nurettintopal">more blog posts</a></p>
 
